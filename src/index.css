@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mi-estilo{
+  color: blue;
+  font-size: 30px;
+}
